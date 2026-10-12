@@ -3,7 +3,7 @@
 - 🎓 Studying for an MSc in Business Analytics at Bayes Business School
 - 🔭 Currently building [Haven PMS](https://github.com/chanonwa/haven_pms), a property management system with built-in analytics, and an expense tracker
 - 🧪 Exploring Kaggle datasets to put network analysis, regression and machine learning into practice
-- 🔍 Love exploring data and digging for the story hiding inside the numbers! Give me a messy dataset and a good question and I'm happy.
+- 🔍 Love digging for the story hiding inside the numbers! Give me a messy dataset and a good question and I'm happy.
 - 💻 Enjoy a bit of coding: a little SQL or Python to turn raw data into something useful
 - 🌱 Always learning, and always up for a chat about data or AI
 - 📫 Say hi on [LinkedIn](https://www.linkedin.com/in/chanon-wasusopon/), by [email](mailto:cwasusopon@gmail.com), or see my full CV at [chanonwa.github.io](https://chanonwa.github.io)
