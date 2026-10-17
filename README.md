@@ -1,6 +1,7 @@
 - 👋 Hi, I'm Chanon, or you can call me Chip
 - 📊 8+ years of working experience in business analysis and business intelligence, at Detecon and LINE Thailand
 - 🎓 Studying for an MSc in Business Analytics at Bayes Business School
+- 🖥️ Graduated from the University of Essex with a BSc in Computer Science
 - 🔭 Currently building [RentDee](https://github.com/chanonwa/rentdee), a property management system with built-in analytics, and [NgernKob](https://github.com/chanonwa/ngernkob), an expense tracker built for Thai users
 - 🧪 Exploring Kaggle datasets to put network analysis, regression and machine learning into practice
 - 🔍 Love digging for the story hiding inside the numbers! Give me a messy dataset and a good question and I'm happy.
