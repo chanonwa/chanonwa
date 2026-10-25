@@ -2,9 +2,10 @@
 - 📊 8+ years of working experience in business analysis and business intelligence, at Detecon and LINE Thailand
 - 🎓 Studying for an MSc in Business Analytics at Bayes Business School
 - 🖥️ Graduated from the University of Essex with a BSc in Computer Science
-- 🔭 Currently building [RentDee](https://github.com/chanonwa/rentdee), a property management system with built-in analytics, and [NgernKob](https://github.com/chanonwa/ngernkob), an expense tracker built for Thai users
+- 🔭 Currently building [RentDee](https://github.com/chanonwa/rentdee), a property management system with built-in analytics, and [NgernKob](https://github.com/chanonwa/ngernkob), an expense tracker built for Thai users, while improving [MAA TaskBar Hero](https://github.com/chanonwa/MAA-Task-Bar-Hero), a bot that plays the Steam game TaskBarHero
 - 🧪 Exploring Kaggle datasets to put network analysis, regression and machine learning into practice
 - 🔍 Love digging for the story hiding inside the numbers! Give me a messy dataset and a good question and I'm happy.
 - 💻 Enjoy a bit of coding: a little SQL or Python to turn raw data into something useful
+- 🎮 Passionate about playing games, and sometimes the games turn into code, like my [TaskBarHero bot](https://github.com/chanonwa/MAA-Task-Bar-Hero) that reads the game screen and plays the farming loop
 - 🌱 Always learning, and always up for a chat about data or AI
 - 📫 Say hi on [LinkedIn](https://www.linkedin.com/in/chanon-wasusopon/), by [email](mailto:cwasusopon@gmail.com), or see my full CV at [chanonwa.github.io](https://chanonwa.github.io)
